@@ -2,9 +2,9 @@ URL Ranks by DiscoPeligro.
 {
 "Owner": ["Brandynauta"],
 
-"Consigliere": ["JokerStein", "Nastic Hope"],
+"Consigliere": ["JokerStein","Nastic Hope"],
 
-"Staff": ["Ledo0187","heydicoco_VT","Strikkеrz","Spinela","JOHNM1LLER"],
+"Staff": ["Ledo0187","heydicoco_VT","Strikkеrz","Spinela","JOHNM1LLER","mottchi"],
 
 "DJ": ["coffeyy","DjCrossFade1200","Ramses0418","Toto_TotoroToto_Totoro","LiaLai","WonderBimbo","Gr1zzLy_OwO","༄ NebularSoul ༄","ElementJonny","Jamirdg","RAFAOwO",],
 
