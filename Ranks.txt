@@ -1,0 +1,14 @@
+URL Ranks by DiscoPeligro.
+{
+"Owner": ["Brandynauta"],
+
+"Consigliere": ["JokerStein", "Nastic Hope"],
+
+"Staff": ["Ledo0187","heydicoco_VT","Strikkеrz","Spinela","JOHNM1LLER"],
+
+"DJ": ["coffeyy","DjCrossFade1200","Ramses0418","Toto_TotoroToto_Totoro","LiaLai","WonderBimbo","Gr1zzLy_OwO","༄ NebularSoul ༄","ElementJonny","Jamirdg","RAFAOwO",],
+
+"Partner": ["FXSCAR","MarlonQC","Fluffy_kiwi","KendoMurft","Naim Ulloa","GreyGrace","XionWolf","KatheKatt"],
+
+"VIP": [""],
+}
