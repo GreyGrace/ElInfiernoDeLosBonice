@@ -10,5 +10,5 @@ URL Ranks by DiscoPeligro.
 
 "Partner": ["FXSCAR","MarlonQC","Fluffy_kiwi","KendoMurft","Naim Ulloa","GreyGrace","XionWolf V","KatheKatt"],
 
-"VIP": ["Kigosai"],
+"VIP": ["kigosai"],
 }
