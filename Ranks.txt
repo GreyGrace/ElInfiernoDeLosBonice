@@ -4,7 +4,7 @@ URL Ranks by DiscoPeligro.
 
 "Consigliere": ["JokerStein","Nastic Hope"],
 
-"Staff": ["Ledo0187","heydicoco_VT","Strikkеrz","Spinela","JOHNM1LLER","mottchi"],
+"Staff": ["Ledo0187","heydicoco_VT","Strikkеrz","Spinela","JOHNM1LLER","mottchi","Cuevito_"],
 
 "DJ": ["coffeyy","DjCrossFade1200","Ramses0418","LiaLai","WonderBimbo","Gr1zzLy_OwO","༄ NebularSoul ༄","ElementJonny","Jamirdg","RAFAOwO","Toto_Totoro"],
 
