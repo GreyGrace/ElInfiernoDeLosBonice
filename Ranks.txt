@@ -10,7 +10,7 @@ URL Ranks by DiscoPeligro.
 
 "DJ": ["coffeyy","DjCrossFade1200","Ramses0418","LiaLai","WonderBimbo","Gr1zzLy_OwO","༄ NebularSoul ༄","ElementJonny","Jamirdg","RAFAOwO","Toto_Totoro"],
 
-"Partner": ["FXSCAR","MarlonQC","Fluffy_kiwi","KendoMurft","Naim Ulloa","GreyGrace","XionWolf V","KatheKatt","Luvis"],
+"Partner": ["FXSCAR","MarlonQC","Fluffy_kiwi","KendoMurft","Naim Ulloa","XionWolf V","KatheKatt","Luvis"],
 
 "VIP": ["SugarBytes"],
 }
