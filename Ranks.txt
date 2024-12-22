@@ -2,7 +2,7 @@ URL Ranks by DiscoPeligro.
 {
 "Owner": ["Brandynauta"],
 
-"Consigliere": ["JokerStein","Nastic Hope"],
+"Consigliere": ["JokerStein","Nastic Hope","Icоn4500-"],
 
 "World Maker": ["GreyGrace"],
 
