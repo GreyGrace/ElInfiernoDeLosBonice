@@ -13,8 +13,8 @@ URL Ranks by DiscoPeligro.
 "Partner": ["FXSCAR","MarlonQC","Fluffy_kiwi","KendoMurft","Naim Ulloa","XionWolf V","KatheKatt","Luvis","plomitogram","ᴜѕᴀɢɪᴠʀ"],
 
 "VIP": ["SugarBytes",
-		"ESPACIODISPONIBLE",
-		"ESPACIODISPONIBLE",
+		"DiscoPeligro",
+		"Nevadi",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
 		"ESPACIODISPONIBLE",
