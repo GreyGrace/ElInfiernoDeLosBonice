@@ -6,7 +6,7 @@ URL Ranks by DiscoPeligro.
 
 "World Maker": ["GreyGrace"],
 
-"Staff": ["heydicoco_VT","Strikkеrz","Spinela","JOHNM1LLER","mottchi","Cuervito_","07_MiniMin","~Alpha~","Dudei","HuskUwU","Rastadread","SugarLoliUwU","ElTaino","NellyNou","ƝƛƓȺ★ƑʘɌȾ"],"-Yggdrasil",
+"Staff": ["heydicoco_VT","Strikkеrz","Spinela","JOHNM1LLER","mottchi","Cuervito_","07_MiniMin","~Alpha~","Dudei","HuskUwU","Rastadread","SugarLoliUwU","ElTaino","NellyNou","ƝƛƓȺ★ƑʘɌȾ"],"-Yggdrasil",],
 
 "DJ": ["coffeyy","DjCrossFade1200","Ramses0418","LiaLai","WonderBimbo","Gr1zzLy_OwO","༄ NebularSoul ༄","ElementJonny","Jamirdg","RAFAOwO","Toto_Totoro","ALVAR0ZZZZZZZZZ"],
 
